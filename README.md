@@ -1,5 +1,5 @@
-# aws-serverless-sample
-# Tech specs
+# AWS Serverless App Sample
+## Tech specs
 + Lambda
 + Api Gateway
 + Amplify
